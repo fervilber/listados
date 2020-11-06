@@ -8,7 +8,7 @@ Aún funciona en windos 10, simplemente seleccionas un directorio y almacena en 
 
 Si vas a otro directorio nuevo, pone los ficheros en el mismo `Listado.txt` añadiendo lineas.
 
-![imagen del programa](listado_front.png)
+![imagen del programa](listados_front.png)
 
 
 
